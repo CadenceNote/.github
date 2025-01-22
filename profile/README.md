@@ -18,7 +18,7 @@ CadenceNotes is a modern web application designed to streamline agile ceremonies
 - **Action Tracking** - Never lose track of important tasks
 - **Auto-save** - Changes are saved automatically
 
-##Tech Stack
+## Tech Stack
 
 ### Frontend
 - Next.js 14 with App Router
