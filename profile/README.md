@@ -1,4 +1,4 @@
-# CadenceNotes - Agile Meeting Notes Platform
+# Agilee (CadenceNotes) - Agile Meeting Notes Platform
 
 CadenceNotes is a modern web application designed to streamline agile ceremonies with intelligent note-taking capabilities. Built with Next.js, TypeScript, and Python, it helps teams capture important decisions, action items, and insights effortlessly.
 
